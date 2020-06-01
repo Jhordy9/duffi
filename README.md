@@ -26,7 +26,7 @@
 
 ## :rocket: Technologies
 
-Project developed to improve React and NodeJS concepts during the [GoStack BootCamp](https://rocketseat.com.br/bootcamp), using the following technologies:
+Project developed to improve NodeJS and TypeORM Relations concepts during the [GoStack BootCamp](https://rocketseat.com.br/bootcamp), using the following technologies:
 
 -  [Node.js](https://nodejs.org/en/)
 -  [ExpressJS](https://expressjs.com/)
