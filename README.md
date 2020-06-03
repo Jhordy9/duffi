@@ -47,8 +47,8 @@ $ git clone https://github.com/Jhordy9/duffi.git
 # Go into the repository
 $ cd duffi
 
-# Install dependencies in backend and frontend
-$ yarn install
+# Install dependencies in backend
+$ yarn
 
 # Run the backend
 $ yarn dev:server
